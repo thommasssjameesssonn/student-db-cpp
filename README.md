@@ -7,3 +7,5 @@ Clone this project and look at the source files:
 - `main.cpp`
 - `db.h`
 - `db.cpp`
+
+*Initialized by thommasssjameesssonn workspace automation.*
